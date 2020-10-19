@@ -47,15 +47,15 @@ Another one is mainly used to **review** this course, or works as an answer shee
 
 For each chapter, each section, we summarized the important definitions and theorems. These will be shown on the markdown part in each section. 
 
-<img src="./imgs/bertu-definitions.PNG" alt="Definitions" style="zoom:80%;" />
+![](https://github.com/Probability-Statistics-Jupyter-Notebook/probability-statistics-notebook/blob/master/imgs/bertu-definitions.PNG)
 
 Then, we use Python code to implement the calculation part. With the help of code, you will easily understand the calculating process, which we believe is really important to master and practice the definitions and theorems we learned. 
 
 In each code block, we showed required parameters at the beginning, you can modify them freely with your need, and then get the result you want. 
 
-<img src="./imgs/bertu-code.png" alt="Code" style="zoom:80%;" />
+![](https://github.com/Probability-Statistics-Jupyter-Notebook/probability-statistics-notebook/blob/master/imgs/bertu-code.PNG)
 
-<img src="./imgs/bertu-result.png" alt="Result" style="zoom:80%;" />
+![](https://github.com/Probability-Statistics-Jupyter-Notebook/probability-statistics-notebook/blob/master/imgs/bertu-result.PNG)
 
 Sum up, there are three parts for each section: 
 
@@ -63,7 +63,7 @@ Sum up, there are three parts for each section:
 - Code implement by Python 
 - Result output
 
-<img src="./imgs/bertu-sumup.png" alt="Sumup" style="zoom: 67%;" />
+![](https://github.com/Probability-Statistics-Jupyter-Notebook/probability-statistics-notebook/blob/master/imgs/bertu-sumup.PNG)
 
 ### Notebook for Reviewing
 
@@ -71,19 +71,19 @@ If you have complete the learning of this course, you may want a more simple not
 
 Similarly, we showed definitions at the beginning of each section, but now these definitions and theorems have been quite concise. Just have a glance to refresh you mind. You can do it. 
 
-<img src="./imgs/chuanbo-definitions.png" alt="Definitiosn" style="zoom:80%;" />
+![](https://github.com/Probability-Statistics-Jupyter-Notebook/probability-statistics-notebook/blob/master/imgs/chuanbo-definitions.PNG)
 
 Then, there are code blocks to help you do some calculations. In each cold block, there are three parts: `input`, `calculate` and `output`. 
 
 You can modify values in the `input` freely, and the code will output the result. 
 
-<img src="./imgs/chuanbo-code.png" alt=" " style="zoom:80%;" />
+![](https://github.com/Probability-Statistics-Jupyter-Notebook/probability-statistics-notebook/blob/master/imgs/chuanbo-code.PNG)
 
-<img src="./imgs/chuanbo-result.png" alt="Result" style="zoom:80%;" />
+![](https://github.com/Probability-Statistics-Jupyter-Notebook/probability-statistics-notebook/blob/master/imgs/chuanbo-result.PNG)
 
 If you forget the meaning of parameters, it dose not matter, we also note he parameters' definitions there. 
 
-<img src="./imgs/chuanbo-sumup.png" alt="Code" style="zoom: 67%;" />
+![](https://github.com/Probability-Statistics-Jupyter-Notebook/probability-statistics-notebook/blob/master/imgs/chuanbo-sumup.PNG)
 
 Since these notebooks are quite simple and clear, you can easily use them to be your answer sheet in exams. That must be amazing helpful.  
 
