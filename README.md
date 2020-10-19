@@ -93,9 +93,9 @@ Since these notebooks are quite simple and clear, you can easily use them to be 
 
 **Step 2**.  Run the first one or two code blocks to set the packages environment. 
 
-<img src="./imgs/chuanbo-head.png" alt="Code" style="zoom:80%;" />
+![](https://github.com/Probability-Statistics-Jupyter-Notebook/probability-statistics-notebook/blob/master/imgs/chuanbo-head.PNG)
 
-<img src="./imgs/bertu-head.png" alt="Code" style="zoom:88%;" />
+![](https://github.com/Probability-Statistics-Jupyter-Notebook/probability-statistics-notebook/blob/master/imgs/bertu-head.PNG)
 
 If there is something wrong with environment setting, please check you Python and packages' version. 
 
