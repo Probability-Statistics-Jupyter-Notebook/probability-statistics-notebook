@@ -31,8 +31,8 @@ Chapter 7. Statistical Estimation and Sampling Distributions
 ## Environment requirements
 
 ```
-Python version: 3.8 or later
-Python package: scipy, math, jupiter notebook/lab
+Python version: 3.7 or later
+Python package: scipy, numpy, pandas, matplotlib, stemgraphic
 ```
 
 ## What we have done
